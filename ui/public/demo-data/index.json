@@ -1,0 +1,191 @@
+{
+ "version": 1,
+ "generated_at": "2026-11-14T22:22:11.229143Z",
+ "agents": {
+  "guardian": "rule",
+  "rca": "loudest",
+  "models": {}
+ },
+ "reportable": false,
+ "scenarios": [
+  {
+   "id": "selftest-cascade",
+   "title": "Catalog database pool exhausted; symptoms upstream",
+   "family": "cascade",
+   "difficulty": "medium",
+   "split": "selftest",
+   "synthetic": true,
+   "file": "selftest-cascade.json",
+   "has_incident": true
+  },
+  {
+   "id": "selftest-healthy",
+   "title": "Healthy traffic with benign transient errors",
+   "family": "benign-noise",
+   "difficulty": "easy",
+   "split": "selftest",
+   "synthetic": true,
+   "file": "selftest-healthy.json",
+   "has_incident": false
+  },
+  {
+   "id": "selftest-injection",
+   "title": "Disk full on payment, with injection text and a leaked secret",
+   "family": "adversarial",
+   "difficulty": "adversarial",
+   "split": "selftest",
+   "synthetic": true,
+   "file": "selftest-injection.json",
+   "has_incident": true
+  },
+  {
+   "id": "selftest-payment-config",
+   "title": "Payment service loads a bad config",
+   "family": "hard-failure",
+   "difficulty": "easy",
+   "split": "selftest",
+   "synthetic": true,
+   "file": "selftest-payment-config.json",
+   "has_incident": true
+  },
+  {
+   "id": "selftest-watcher-gap",
+   "title": "Backend watcher goes silent for two windows",
+   "family": "missing-data",
+   "difficulty": "easy",
+   "split": "selftest",
+   "synthetic": true,
+   "file": "selftest-watcher-gap.json",
+   "has_incident": false
+  }
+ ],
+ "summary": {
+  "model_calls": 0,
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "cost_usd_estimate": 0,
+  "tokens_per_incident_mean": 0.0,
+  "guardian_windows_without_model_call": {
+   "k": 0,
+   "n": 0,
+   "p": null,
+   "ci95": [
+    null,
+    null
+   ]
+  },
+  "guardian_digest_vs_raw_tokens": null,
+  "failed_model_calls": 0,
+  "rca_blocked_tool_calls": 0,
+  "rca_invalid_replies": 0,
+  "raw_evidence_faithfulness": {
+   "k": 0,
+   "n": 0,
+   "p": null,
+   "ci95": [
+    null,
+    null
+   ]
+  },
+  "scenario_runs": 5,
+  "window_accuracy": {
+   "k": 30,
+   "n": 30,
+   "p": 1.0,
+   "ci95": [
+    0.8864829086095221,
+    1.0
+   ]
+  },
+  "incident_recall": {
+   "k": 3,
+   "n": 3,
+   "p": 1.0,
+   "ci95": [
+    0.43849391955098227,
+    1.0
+   ]
+  },
+  "detection_latency_median_s": 180.0,
+  "false_escalation_rate": {
+   "k": 0,
+   "n": 16,
+   "p": 0.0,
+   "ci95": [
+    0.0,
+    0.19361341827271994
+   ]
+  },
+  "missing_data_reported_ok": {
+   "k": 0,
+   "n": 2,
+   "p": 0.0,
+   "ci95": [
+    0.0,
+    0.6576280471103807
+   ]
+  },
+  "rca_service_top1": {
+   "k": 2,
+   "n": 3,
+   "p": 0.6666666666666666,
+   "ci95": [
+    0.2076549551264879,
+    0.9385096847238394
+   ]
+  },
+  "rca_category": {
+   "k": 2,
+   "n": 3,
+   "p": 0.6666666666666666,
+   "ci95": [
+    0.2076549551264879,
+    0.9385096847238394
+   ]
+  },
+  "rca_severity": {
+   "k": 1,
+   "n": 3,
+   "p": 0.3333333333333333,
+   "ci95": [
+    0.0614903152761605,
+    0.7923450448735121
+   ]
+  },
+  "evidence_faithfulness": {
+   "k": 9,
+   "n": 9,
+   "p": 1.0,
+   "ci95": [
+    0.7008472464490407,
+    1.0
+   ]
+  },
+  "code_ref_accuracy": {
+   "k": 0,
+   "n": 1,
+   "p": 0.0,
+   "ci95": [
+    0.0,
+    0.7934567085261071
+   ]
+  },
+  "fact_coverage": {
+   "k": 2,
+   "n": 3,
+   "p": 0.6666666666666666,
+   "ci95": [
+    0.2076549551264879,
+    0.9385096847238394
+   ]
+  },
+  "no_rca": 0,
+  "schema_failures": 0,
+  "secret_leaks": 1,
+  "confusion": {
+   "ok->ok": 16,
+   "escalate->escalate": 12,
+   "unknown->unknown": 2
+  }
+ }
+}
