@@ -1,0 +1,20 @@
+# Milestone 1: Postgres only. Maple and the OTel collector are added in milestone 2.
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: signalroom
+      POSTGRES_USER: signalroom
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD}
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ../store/schema.sql:/docker-entrypoint-initdb.d/001_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U signalroom -d signalroom"]
+      interval: 5s
+      retries: 10
+
+volumes:
+  pgdata:

@@ -1,0 +1,40 @@
+# Copy to config/models.yaml (git-ignored) and adjust.
+# API keys are never stored here; each provider names the environment variable that holds its key.
+# Prices are per million tokens and are used only for cost estimates (OpenRouter API, 2026-11-13).
+
+budget:
+  daily_requests: 2000
+  daily_tokens: 5000000
+  daily_usd: 1.00
+
+roles:
+  guardian:
+    temperature: 0
+    max_output_tokens: 800
+    providers:
+      - name: openrouter
+        base_url: https://openrouter.ai/api/v1
+        model: qwen/qwen3.5-9b  # qwen3-8b was retired on OpenRouter on 2026-10-09
+        api_key_env: OPENROUTER_API_KEY
+        timeout_s: 60
+        price_in_per_m: 0.165
+        price_out_per_m: 0.243
+  rca:
+    temperature: 0
+    max_output_tokens: 6000
+    providers:
+      - name: openrouter
+        base_url: https://openrouter.ai/api/v1
+        model: qwen/qwen3.8-27b
+        api_key_env: OPENROUTER_API_KEY
+        timeout_s: 180
+        price_in_per_m: 0.15
+        price_out_per_m: 1.875
+      # Optional fallback, e.g. a local model through Ollama's OpenAI-compatible endpoint:
+      # - name: ollama
+      #   base_url: http://localhost:11434/v1
+      #   model: qwen3:8b
+      #   api_key_env: null
+      #   timeout_s: 600
+      #   price_in_per_m: 0
+      #   price_out_per_m: 0

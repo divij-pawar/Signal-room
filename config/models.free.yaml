@@ -1,0 +1,42 @@
+# Free-tier models for testing without credits. No keys here: api_key_env names the variable.
+# OpenRouter free models are rate-limited (roughly 20 requests per minute and a small daily
+# cap without purchased credits; check your account). Free providers may log or train on
+# prompts, so use only synthetic data with this config.
+# No Qwen model was free when this was written, and the free Gemma 4 models were rate-limited
+# upstream (Google's shared pool), so this uses NVIDIA Nemotron with Ling as fallback.
+# Results from this config are not comparable to the Qwen configuration.
+
+budget:
+  daily_requests: 45
+  daily_tokens: 3000000
+  daily_usd: 0.01
+
+roles:
+  guardian:
+    temperature: 0
+    max_output_tokens: 2000  # reasoning model: leave room for its thinking
+    providers:
+      - name: openrouter-free
+        base_url: https://openrouter.ai/api/v1
+        model: nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
+        api_key_env: OPENROUTER_API_KEY_GUARDIAN
+        timeout_s: 90
+      - name: openrouter-free-fallback
+        base_url: https://openrouter.ai/api/v1
+        model: inclusionai/ling-3.2-flash:free
+        api_key_env: OPENROUTER_API_KEY_GUARDIAN
+        timeout_s: 90
+  rca:
+    temperature: 0
+    max_output_tokens: 4000
+    providers:
+      - name: openrouter-free
+        base_url: https://openrouter.ai/api/v1
+        model: nvidia/nemotron-3-ultra-550b-a55b:free
+        api_key_env: OPENROUTER_API_KEY_RCA
+        timeout_s: 180
+      - name: openrouter-free-fallback
+        base_url: https://openrouter.ai/api/v1
+        model: inclusionai/ling-3.2-flash:free
+        api_key_env: OPENROUTER_API_KEY_RCA
+        timeout_s: 120
