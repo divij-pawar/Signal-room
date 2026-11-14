@@ -1,0 +1,28 @@
+split: selftest
+synthetic: true
+fixture: ../fixtures/selftest-payment-config.jsonl
+start: '2026-01-01T12:00:00+00:00'
+windows: 6
+hosts:
+- edge-host
+- core-host
+- backend-host
+id: selftest-payment-config
+title: Payment service loads a bad config
+family: hard-failure
+difficulty: easy
+injection:
+  start: '2026-01-01T12:09:00+00:00'
+  end: '2026-01-01T12:24:00+00:00'
+  method: scripted log lines
+  description: currency map removed from config
+ground_truth:
+  root_cause_service: payment
+  root_cause_category: config
+  severity: sev1
+  code_ref:
+    file: selftest/payment/config.py
+    start_line: 41
+    end_line: 58
+  required_facts:
+  - currency_conversion_map

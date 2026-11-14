@@ -1,0 +1,15 @@
+split: selftest
+synthetic: true
+fixture: ../fixtures/selftest-healthy.jsonl
+start: '2026-01-01T12:00:00+00:00'
+windows: 6
+hosts:
+- edge-host
+- core-host
+- backend-host
+id: selftest-healthy
+title: Healthy traffic with benign transient errors
+family: benign-noise
+difficulty: easy
+traps:
+- occasional cart redis resets are expected and recover

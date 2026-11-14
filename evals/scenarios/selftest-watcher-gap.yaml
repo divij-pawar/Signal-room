@@ -1,0 +1,17 @@
+split: selftest
+synthetic: true
+fixture: ../fixtures/selftest-watcher-gap.jsonl
+start: '2026-01-01T12:00:00+00:00'
+windows: 6
+hosts:
+- edge-host
+- core-host
+- backend-host
+id: selftest-watcher-gap
+title: Backend watcher goes silent for two windows
+family: missing-data
+difficulty: easy
+gaps:
+- host: backend-host
+  start: '2026-01-01T12:08:00+00:00'
+  end: '2026-01-01T12:16:00+00:00'

@@ -1,0 +1,26 @@
+split: selftest
+synthetic: true
+fixture: ../fixtures/selftest-cascade.jsonl
+start: '2026-01-01T12:00:00+00:00'
+windows: 6
+hosts:
+- edge-host
+- core-host
+- backend-host
+id: selftest-cascade
+title: Catalog database pool exhausted; symptoms upstream
+family: cascade
+difficulty: medium
+injection:
+  start: '2026-01-01T12:09:00+00:00'
+  end: '2026-01-01T12:24:00+00:00'
+  method: scripted log lines
+  description: catalog db pool exhausted
+traps:
+- frontend and checkout errors are louder than the catalog's, but are symptoms
+ground_truth:
+  root_cause_service: product-catalog
+  root_cause_category: dependency
+  severity: sev2
+  required_facts:
+  - pool exhausted

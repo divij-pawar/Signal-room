@@ -1,0 +1,1077 @@
+{"timestamp": "2026-01-01T12:00:01.654478+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8898 completed checkout flow"}
+{"timestamp": "2026-01-01T12:00:05.647676+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5630 updated, 3 items"}
+{"timestamp": "2026-01-01T12:00:07.209915+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2141 committed"}
+{"timestamp": "2026-01-01T12:00:07.220481+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 43ms"}
+{"timestamp": "2026-01-01T12:00:09.317410+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6244"}
+{"timestamp": "2026-01-01T12:00:10.221604+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6756 placed"}
+{"timestamp": "2026-01-01T12:00:10.652128+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:00:11.393671+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 4923 succeeded"}
+{"timestamp": "2026-01-01T12:00:11.472411+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 27ms"}
+{"timestamp": "2026-01-01T12:00:12.669242+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8652 completed checkout flow"}
+{"timestamp": "2026-01-01T12:00:17.966862+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4477 updated, 3 items"}
+{"timestamp": "2026-01-01T12:00:18.665306+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4885 committed"}
+{"timestamp": "2026-01-01T12:00:19.317830+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5346"}
+{"timestamp": "2026-01-01T12:00:20.311020+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 33ms"}
+{"timestamp": "2026-01-01T12:00:20.711591+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:00:20.746603+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4211 placed"}
+{"timestamp": "2026-01-01T12:00:21.811899+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 41ms"}
+{"timestamp": "2026-01-01T12:00:24.411627+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 4984 succeeded"}
+{"timestamp": "2026-01-01T12:00:25.520097+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6738 completed checkout flow"}
+{"timestamp": "2026-01-01T12:00:28.568988+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2062 updated, 3 items"}
+{"timestamp": "2026-01-01T12:00:30.421981+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1314 committed"}
+{"timestamp": "2026-01-01T12:00:31.060556+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 47ms"}
+{"timestamp": "2026-01-01T12:00:31.076070+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:00:31.415326+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5836"}
+{"timestamp": "2026-01-01T12:00:31.987551+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 1286 placed"}
+{"timestamp": "2026-01-01T12:00:32.818232+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 47ms"}
+{"timestamp": "2026-01-01T12:00:35.532246+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9735 completed checkout flow"}
+{"timestamp": "2026-01-01T12:00:37.888204+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5529 succeeded"}
+{"timestamp": "2026-01-01T12:00:41.101642+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5574 updated, 3 items"}
+{"timestamp": "2026-01-01T12:00:41.524074+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 25ms"}
+{"timestamp": "2026-01-01T12:00:41.674931+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:00:42.579591+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2159 committed"}
+{"timestamp": "2026-01-01T12:00:43.349405+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2206 placed"}
+{"timestamp": "2026-01-01T12:00:45.143048+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 40ms"}
+{"timestamp": "2026-01-01T12:00:45.144618+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4097"}
+{"timestamp": "2026-01-01T12:00:48.881012+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8946 completed checkout flow"}
+{"timestamp": "2026-01-01T12:00:50.030328+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7387 succeeded"}
+{"timestamp": "2026-01-01T12:00:52.868436+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 84ms"}
+{"timestamp": "2026-01-01T12:00:53.470890+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:00:53.682075+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8844 updated, 3 items"}
+{"timestamp": "2026-01-01T12:00:56.475564+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5460 committed"}
+{"timestamp": "2026-01-01T12:00:56.793795+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3242 placed"}
+{"timestamp": "2026-01-01T12:00:57.696933+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 85ms"}
+{"timestamp": "2026-01-01T12:00:58.138810+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9711"}
+{"timestamp": "2026-01-01T12:01:02.580751+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8525 completed checkout flow"}
+{"timestamp": "2026-01-01T12:01:03.464452+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 24ms"}
+{"timestamp": "2026-01-01T12:01:03.550742+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3228 succeeded"}
+{"timestamp": "2026-01-01T12:01:06.885224+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3478 updated, 3 items"}
+{"timestamp": "2026-01-01T12:01:07.180325+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:01:09.399005+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5873 committed"}
+{"timestamp": "2026-01-01T12:01:09.873641+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 76ms"}
+{"timestamp": "2026-01-01T12:01:10.681249+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7835 placed"}
+{"timestamp": "2026-01-01T12:01:10.974294+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6423"}
+{"timestamp": "2026-01-01T12:01:13.648532+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8541 completed checkout flow"}
+{"timestamp": "2026-01-01T12:01:16.324993+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 51ms"}
+{"timestamp": "2026-01-01T12:01:16.376836+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 1978 succeeded"}
+{"timestamp": "2026-01-01T12:01:19.144862+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4324 updated, 3 items"}
+{"timestamp": "2026-01-01T12:01:19.979678+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:01:20.946604+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 24ms"}
+{"timestamp": "2026-01-01T12:01:21.079433+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7800"}
+{"timestamp": "2026-01-01T12:01:21.982468+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1586 committed"}
+{"timestamp": "2026-01-01T12:01:23.388546+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5832 placed"}
+{"timestamp": "2026-01-01T12:01:23.758643+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6695 completed checkout flow"}
+{"timestamp": "2026-01-01T12:01:28.521578+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 50ms"}
+{"timestamp": "2026-01-01T12:01:30.078537+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5164 succeeded"}
+{"timestamp": "2026-01-01T12:01:31.618033+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7420 updated, 3 items"}
+{"timestamp": "2026-01-01T12:01:32.328540+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6733"}
+{"timestamp": "2026-01-01T12:01:32.402662+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 60ms"}
+{"timestamp": "2026-01-01T12:01:32.692784+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4142 committed"}
+{"timestamp": "2026-01-01T12:01:33.439858+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:01:34.453442+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5182 completed checkout flow"}
+{"timestamp": "2026-01-01T12:01:34.576801+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2882 placed"}
+{"timestamp": "2026-01-01T12:01:38.719537+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 84ms"}
+{"timestamp": "2026-01-01T12:01:42.232357+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3572 succeeded"}
+{"timestamp": "2026-01-01T12:01:42.804065+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5240 committed"}
+{"timestamp": "2026-01-01T12:01:43.713967+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4490 updated, 3 items"}
+{"timestamp": "2026-01-01T12:01:44.097106+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 87ms"}
+{"timestamp": "2026-01-01T12:01:44.604423+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3338 placed"}
+{"timestamp": "2026-01-01T12:01:45.425951+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4505"}
+{"timestamp": "2026-01-01T12:01:45.564784+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:01:47.153415+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1886 completed checkout flow"}
+{"timestamp": "2026-01-01T12:01:49.932079+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 82ms"}
+{"timestamp": "2026-01-01T12:01:52.918165+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3747 committed"}
+{"timestamp": "2026-01-01T12:01:54.224339+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2376 succeeded"}
+{"timestamp": "2026-01-01T12:01:55.958621+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5086 updated, 3 items"}
+{"timestamp": "2026-01-01T12:01:56.013426+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5925 placed"}
+{"timestamp": "2026-01-01T12:01:56.339147+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 50ms"}
+{"timestamp": "2026-01-01T12:01:57.803696+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8612 completed checkout flow"}
+{"timestamp": "2026-01-01T12:01:58.723755+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:01:59.054391+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3723"}
+{"timestamp": "2026-01-01T12:02:03.614972+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2934 committed"}
+{"timestamp": "2026-01-01T12:02:03.687988+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 43ms"}
+{"timestamp": "2026-01-01T12:02:06.434579+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 61ms"}
+{"timestamp": "2026-01-01T12:02:06.512046+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8145 updated, 3 items"}
+{"timestamp": "2026-01-01T12:02:07.045763+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3679 succeeded"}
+{"timestamp": "2026-01-01T12:02:09.117782+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3114 placed"}
+{"timestamp": "2026-01-01T12:02:10.228269+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2940"}
+{"timestamp": "2026-01-01T12:02:10.506406+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1170 completed checkout flow"}
+{"timestamp": "2026-01-01T12:02:11.243299+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:02:13.686336+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5677 committed"}
+{"timestamp": "2026-01-01T12:02:14.012795+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 23ms"}
+{"timestamp": "2026-01-01T12:02:16.981369+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 85ms"}
+{"timestamp": "2026-01-01T12:02:16.989646+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7419 updated, 3 items"}
+{"timestamp": "2026-01-01T12:02:17.456990+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5015 succeeded"}
+{"timestamp": "2026-01-01T12:02:19.475018+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4764 placed"}
+{"timestamp": "2026-01-01T12:02:21.637025+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1029 completed checkout flow"}
+{"timestamp": "2026-01-01T12:02:23.644924+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7633"}
+{"timestamp": "2026-01-01T12:02:24.100226+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5419 committed"}
+{"timestamp": "2026-01-01T12:02:25.034500+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:02:27.138421+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 22ms"}
+{"timestamp": "2026-01-01T12:02:27.473274+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5364 succeeded"}
+{"timestamp": "2026-01-01T12:02:28.569699+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5666 updated, 3 items"}
+{"timestamp": "2026-01-01T12:02:30.976103+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 43ms"}
+{"timestamp": "2026-01-01T12:02:32.695204+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4059 placed"}
+{"timestamp": "2026-01-01T12:02:33.102864+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7264 completed checkout flow"}
+{"timestamp": "2026-01-01T12:02:34.197171+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9929"}
+{"timestamp": "2026-01-01T12:02:35.932601+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9563 committed"}
+{"timestamp": "2026-01-01T12:02:35.945799+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:02:37.613068+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 69ms"}
+{"timestamp": "2026-01-01T12:02:37.705248+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 4522 succeeded"}
+{"timestamp": "2026-01-01T12:02:39.430149+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1900 updated, 3 items"}
+{"timestamp": "2026-01-01T12:02:44.163143+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 87ms"}
+{"timestamp": "2026-01-01T12:02:45.360089+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6053 completed checkout flow"}
+{"timestamp": "2026-01-01T12:02:45.364471+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7734 placed"}
+{"timestamp": "2026-01-01T12:02:46.181163+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5654"}
+{"timestamp": "2026-01-01T12:02:46.676225+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5634 committed"}
+{"timestamp": "2026-01-01T12:02:47.204532+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:02:50.097070+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 80ms"}
+{"timestamp": "2026-01-01T12:02:50.445410+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9041 succeeded"}
+{"timestamp": "2026-01-01T12:02:51.560561+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9905 updated, 3 items"}
+{"timestamp": "2026-01-01T12:02:56.734396+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6060 committed"}
+{"timestamp": "2026-01-01T12:02:57.322134+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 65ms"}
+{"timestamp": "2026-01-01T12:02:57.353201+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8926 completed checkout flow"}
+{"timestamp": "2026-01-01T12:02:57.962373+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6474 placed"}
+{"timestamp": "2026-01-01T12:02:58.436845+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2123"}
+{"timestamp": "2026-01-01T12:02:59.012770+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:03:01.070066+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 29ms"}
+{"timestamp": "2026-01-01T12:03:02.252453+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 1631 succeeded"}
+{"timestamp": "2026-01-01T12:03:04.258646+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7344 updated, 3 items"}
+{"timestamp": "2026-01-01T12:03:08.453786+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2690 committed"}
+{"timestamp": "2026-01-01T12:03:09.368847+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:03:09.679161+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6649 placed"}
+{"timestamp": "2026-01-01T12:03:10.111712+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2256 completed checkout flow"}
+{"timestamp": "2026-01-01T12:03:10.865425+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1035"}
+{"timestamp": "2026-01-01T12:03:11.246040+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 77ms"}
+{"timestamp": "2026-01-01T12:03:13.209249+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 39ms"}
+{"timestamp": "2026-01-01T12:03:13.491538+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9688 succeeded"}
+{"timestamp": "2026-01-01T12:03:17.086866+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4791 updated, 3 items"}
+{"timestamp": "2026-01-01T12:03:20.948245+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9329"}
+{"timestamp": "2026-01-01T12:03:21.143643+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5983 completed checkout flow"}
+{"timestamp": "2026-01-01T12:03:22.000760+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1907 committed"}
+{"timestamp": "2026-01-01T12:03:23.043603+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:03:23.376306+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2926 placed"}
+{"timestamp": "2026-01-01T12:03:24.357938+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2615 succeeded"}
+{"timestamp": "2026-01-01T12:03:25.065772+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 71ms"}
+{"timestamp": "2026-01-01T12:03:25.124459+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 60ms"}
+{"timestamp": "2026-01-01T12:03:29.145587+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6971 updated, 3 items"}
+{"timestamp": "2026-01-01T12:03:32.478471+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7438 completed checkout flow"}
+{"timestamp": "2026-01-01T12:03:34.597787+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6840"}
+{"timestamp": "2026-01-01T12:03:35.961551+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8296 committed"}
+{"timestamp": "2026-01-01T12:03:36.003408+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3052 placed"}
+{"timestamp": "2026-01-01T12:03:36.176030+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3796 succeeded"}
+{"timestamp": "2026-01-01T12:03:36.574830+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:03:37.034773+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 59ms"}
+{"timestamp": "2026-01-01T12:03:37.685416+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 51ms"}
+{"timestamp": "2026-01-01T12:03:41.186759+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9073 updated, 3 items"}
+{"timestamp": "2026-01-01T12:03:44.550810+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9330 completed checkout flow"}
+{"timestamp": "2026-01-01T12:03:44.932881+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4691"}
+{"timestamp": "2026-01-01T12:03:47.042338+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2869 committed"}
+{"timestamp": "2026-01-01T12:03:47.046928+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:03:48.406723+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3376 succeeded"}
+{"timestamp": "2026-01-01T12:03:48.741814+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3373 placed"}
+{"timestamp": "2026-01-01T12:03:48.801825+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 83ms"}
+{"timestamp": "2026-01-01T12:03:49.499885+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 57ms"}
+{"timestamp": "2026-01-01T12:03:53.510285+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4623 updated, 3 items"}
+{"timestamp": "2026-01-01T12:03:57.084068+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9691 completed checkout flow"}
+{"timestamp": "2026-01-01T12:03:58.177620+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8767 committed"}
+{"timestamp": "2026-01-01T12:03:58.289614+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4861"}
+{"timestamp": "2026-01-01T12:03:58.379420+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:04:00.426058+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5395 placed"}
+{"timestamp": "2026-01-01T12:04:00.730444+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 28ms"}
+{"timestamp": "2026-01-01T12:04:00.863394+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 65ms"}
+{"timestamp": "2026-01-01T12:04:01.272446+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9460 succeeded"}
+{"timestamp": "2026-01-01T12:04:04.628929+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8840 updated, 3 items"}
+{"timestamp": "2026-01-01T12:04:09.334714+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8184 committed"}
+{"timestamp": "2026-01-01T12:04:10.476684+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9268 completed checkout flow"}
+{"timestamp": "2026-01-01T12:04:10.772545+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3637"}
+{"timestamp": "2026-01-01T12:04:10.823205+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 74ms"}
+{"timestamp": "2026-01-01T12:04:11.974038+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:04:12.019852+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 1894 succeeded"}
+{"timestamp": "2026-01-01T12:04:12.887579+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2410 placed"}
+{"timestamp": "2026-01-01T12:04:14.462196+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 79ms"}
+{"timestamp": "2026-01-01T12:04:14.795926+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4383 updated, 3 items"}
+{"timestamp": "2026-01-01T12:04:21.324831+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2471 committed"}
+{"timestamp": "2026-01-01T12:04:22.102078+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 59ms"}
+{"timestamp": "2026-01-01T12:04:22.992045+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1671 completed checkout flow"}
+{"timestamp": "2026-01-01T12:04:23.588752+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5979"}
+{"timestamp": "2026-01-01T12:04:24.358929+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:04:24.464500+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7500 succeeded"}
+{"timestamp": "2026-01-01T12:04:24.945331+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4256 placed"}
+{"timestamp": "2026-01-01T12:04:26.082643+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1795 updated, 3 items"}
+{"timestamp": "2026-01-01T12:04:26.733016+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 78ms"}
+{"timestamp": "2026-01-01T12:04:32.926494+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 39ms"}
+{"timestamp": "2026-01-01T12:04:33.923700+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4802 completed checkout flow"}
+{"timestamp": "2026-01-01T12:04:34.396801+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 7442 committed"}
+{"timestamp": "2026-01-01T12:04:35.318486+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4132"}
+{"timestamp": "2026-01-01T12:04:35.760041+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2102 succeeded"}
+{"timestamp": "2026-01-01T12:04:37.592281+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9800 placed"}
+{"timestamp": "2026-01-01T12:04:37.652931+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:04:38.545624+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2672 updated, 3 items"}
+{"timestamp": "2026-01-01T12:04:39.368557+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 61ms"}
+{"timestamp": "2026-01-01T12:04:45.498485+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 64ms"}
+{"timestamp": "2026-01-01T12:04:45.861132+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4519 committed"}
+{"timestamp": "2026-01-01T12:04:46.014229+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2833 completed checkout flow"}
+{"timestamp": "2026-01-01T12:04:46.057421+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9119"}
+{"timestamp": "2026-01-01T12:04:48.037033+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 6573 succeeded"}
+{"timestamp": "2026-01-01T12:04:50.662730+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:04:51.111570+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2418 updated, 3 items"}
+{"timestamp": "2026-01-01T12:04:51.378428+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9234 placed"}
+{"timestamp": "2026-01-01T12:04:52.875342+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 54ms"}
+{"timestamp": "2026-01-01T12:04:55.867645+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 35ms"}
+{"timestamp": "2026-01-01T12:04:56.462093+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6973 completed checkout flow"}
+{"timestamp": "2026-01-01T12:04:57.941719+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8746 committed"}
+{"timestamp": "2026-01-01T12:04:59.940703+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7498"}
+{"timestamp": "2026-01-01T12:05:00.851252+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 4478 succeeded"}
+{"timestamp": "2026-01-01T12:05:02.327494+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7653 placed"}
+{"timestamp": "2026-01-01T12:05:03.824848+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8166 updated, 3 items"}
+{"timestamp": "2026-01-01T12:05:03.901421+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:05:04.113594+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 84ms"}
+{"timestamp": "2026-01-01T12:05:06.462091+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 51ms"}
+{"timestamp": "2026-01-01T12:05:07.316959+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2267 completed checkout flow"}
+{"timestamp": "2026-01-01T12:05:08.007365+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9872 committed"}
+{"timestamp": "2026-01-01T12:05:13.885850+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4620"}
+{"timestamp": "2026-01-01T12:05:14.151272+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4802 placed"}
+{"timestamp": "2026-01-01T12:05:14.348806+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 4130 succeeded"}
+{"timestamp": "2026-01-01T12:05:15.947858+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:05:16.143021+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 72ms"}
+{"timestamp": "2026-01-01T12:05:16.653884+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6087 updated, 3 items"}
+{"timestamp": "2026-01-01T12:05:18.655813+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3727 completed checkout flow"}
+{"timestamp": "2026-01-01T12:05:19.995051+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 56ms"}
+{"timestamp": "2026-01-01T12:05:20.759221+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6209 committed"}
+{"timestamp": "2026-01-01T12:05:24.342255+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7449 placed"}
+{"timestamp": "2026-01-01T12:05:24.711049+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9791"}
+{"timestamp": "2026-01-01T12:05:25.794464+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8960 succeeded"}
+{"timestamp": "2026-01-01T12:05:28.699765+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8753 updated, 3 items"}
+{"timestamp": "2026-01-01T12:05:29.066741+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 82ms"}
+{"timestamp": "2026-01-01T12:05:29.323380+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:05:30.646148+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8554 completed checkout flow"}
+{"timestamp": "2026-01-01T12:05:32.853186+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 69ms"}
+{"timestamp": "2026-01-01T12:05:33.121748+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4048 committed"}
+{"timestamp": "2026-01-01T12:05:34.415227+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5244 placed"}
+{"timestamp": "2026-01-01T12:05:36.363482+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1565"}
+{"timestamp": "2026-01-01T12:05:37.387612+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 1787 succeeded"}
+{"timestamp": "2026-01-01T12:05:38.887912+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6571 updated, 3 items"}
+{"timestamp": "2026-01-01T12:05:40.187716+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:05:40.533134+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 29ms"}
+{"timestamp": "2026-01-01T12:05:44.224441+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4537 completed checkout flow"}
+{"timestamp": "2026-01-01T12:05:44.643281+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8687 committed"}
+{"timestamp": "2026-01-01T12:05:45.828029+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6534 placed"}
+{"timestamp": "2026-01-01T12:05:46.106564+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 59ms"}
+{"timestamp": "2026-01-01T12:05:46.742161+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9005"}
+{"timestamp": "2026-01-01T12:05:49.763084+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2118 succeeded"}
+{"timestamp": "2026-01-01T12:05:51.633239+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6891 updated, 3 items"}
+{"timestamp": "2026-01-01T12:05:53.139380+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:05:53.436931+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 44ms"}
+{"timestamp": "2026-01-01T12:05:56.108023+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6254 committed"}
+{"timestamp": "2026-01-01T12:05:57.477448+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3411"}
+{"timestamp": "2026-01-01T12:05:57.520362+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3290 placed"}
+{"timestamp": "2026-01-01T12:05:57.943010+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3604 completed checkout flow"}
+{"timestamp": "2026-01-01T12:05:58.714071+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 41ms"}
+{"timestamp": "2026-01-01T12:06:01.050506+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9449 succeeded"}
+{"timestamp": "2026-01-01T12:06:02.061413+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6954 updated, 3 items"}
+{"timestamp": "2026-01-01T12:06:03.671967+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 26ms"}
+{"timestamp": "2026-01-01T12:06:04.316646+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:06:06.786817+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5790 committed"}
+{"timestamp": "2026-01-01T12:06:08.189770+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3810 placed"}
+{"timestamp": "2026-01-01T12:06:08.341228+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8682 completed checkout flow"}
+{"timestamp": "2026-01-01T12:06:11.138689+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6666"}
+{"timestamp": "2026-01-01T12:06:11.751565+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 50ms"}
+{"timestamp": "2026-01-01T12:06:12.034537+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5129 succeeded"}
+{"timestamp": "2026-01-01T12:06:15.241472+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8834 updated, 3 items"}
+{"timestamp": "2026-01-01T12:06:16.038768+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 33ms"}
+{"timestamp": "2026-01-01T12:06:17.457587+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:06:19.099413+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4036 completed checkout flow"}
+{"timestamp": "2026-01-01T12:06:19.757215+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5922 placed"}
+{"timestamp": "2026-01-01T12:06:20.729705+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1245 committed"}
+{"timestamp": "2026-01-01T12:06:23.403328+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8625 succeeded"}
+{"timestamp": "2026-01-01T12:06:24.509661+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9837"}
+{"timestamp": "2026-01-01T12:06:24.638316+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 63ms"}
+{"timestamp": "2026-01-01T12:06:26.584768+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 54ms"}
+{"timestamp": "2026-01-01T12:06:28.449466+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:06:28.825277+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3454 updated, 3 items"}
+{"timestamp": "2026-01-01T12:06:30.523805+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4820 completed checkout flow"}
+{"timestamp": "2026-01-01T12:06:32.812744+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 1121 placed"}
+{"timestamp": "2026-01-01T12:06:33.463775+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4377 committed"}
+{"timestamp": "2026-01-01T12:06:36.316978+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 6413 succeeded"}
+{"timestamp": "2026-01-01T12:06:36.901674+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 78ms"}
+{"timestamp": "2026-01-01T12:06:38.268959+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4251"}
+{"timestamp": "2026-01-01T12:06:38.927588+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8111 updated, 3 items"}
+{"timestamp": "2026-01-01T12:06:39.883758+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 27ms"}
+{"timestamp": "2026-01-01T12:06:41.598347+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7193 completed checkout flow"}
+{"timestamp": "2026-01-01T12:06:41.853760+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:06:43.254656+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2572 placed"}
+{"timestamp": "2026-01-01T12:06:43.670046+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5921 committed"}
+{"timestamp": "2026-01-01T12:06:47.223107+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 59ms"}
+{"timestamp": "2026-01-01T12:06:48.518926+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2647 succeeded"}
+{"timestamp": "2026-01-01T12:06:51.601810+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1416"}
+{"timestamp": "2026-01-01T12:06:52.128027+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:06:52.278723+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6725 updated, 3 items"}
+{"timestamp": "2026-01-01T12:06:53.199387+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5599 completed checkout flow"}
+{"timestamp": "2026-01-01T12:06:53.475629+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 24ms"}
+{"timestamp": "2026-01-01T12:06:56.590531+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 8108 placed"}
+{"timestamp": "2026-01-01T12:06:57.280487+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4633 committed"}
+{"timestamp": "2026-01-01T12:06:57.519013+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 63ms"}
+{"timestamp": "2026-01-01T12:07:00.151638+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7896 succeeded"}
+{"timestamp": "2026-01-01T12:07:02.610107+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8905"}
+{"timestamp": "2026-01-01T12:07:04.809171+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:07:04.925057+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 42ms"}
+{"timestamp": "2026-01-01T12:07:04.968576+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1830 updated, 3 items"}
+{"timestamp": "2026-01-01T12:07:06.597765+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6139 placed"}
+{"timestamp": "2026-01-01T12:07:06.713712+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6250 completed checkout flow"}
+{"timestamp": "2026-01-01T12:07:08.216216+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1802 committed"}
+{"timestamp": "2026-01-01T12:07:09.425519+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 21ms"}
+{"timestamp": "2026-01-01T12:07:12.602210+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7839 succeeded"}
+{"timestamp": "2026-01-01T12:07:15.317900+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3617"}
+{"timestamp": "2026-01-01T12:07:17.616119+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 30ms"}
+{"timestamp": "2026-01-01T12:07:18.263407+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:07:18.417202+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9852 updated, 3 items"}
+{"timestamp": "2026-01-01T12:07:18.567774+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3466 committed"}
+{"timestamp": "2026-01-01T12:07:19.683952+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9715 completed checkout flow"}
+{"timestamp": "2026-01-01T12:07:19.987768+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5397 placed"}
+{"timestamp": "2026-01-01T12:07:21.989451+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 66ms"}
+{"timestamp": "2026-01-01T12:07:25.635881+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5166 succeeded"}
+{"timestamp": "2026-01-01T12:07:25.681848+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7351"}
+{"timestamp": "2026-01-01T12:07:29.410666+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:07:30.443686+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8022 updated, 3 items"}
+{"timestamp": "2026-01-01T12:07:31.434368+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 23ms"}
+{"timestamp": "2026-01-01T12:07:31.673911+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6107 committed"}
+{"timestamp": "2026-01-01T12:07:32.173897+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7020 completed checkout flow"}
+{"timestamp": "2026-01-01T12:07:33.400491+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4814 placed"}
+{"timestamp": "2026-01-01T12:07:35.028921+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 85ms"}
+{"timestamp": "2026-01-01T12:07:35.748027+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 6721 succeeded"}
+{"timestamp": "2026-01-01T12:07:37.444814+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6517"}
+{"timestamp": "2026-01-01T12:07:41.057782+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:07:42.121330+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3663 updated, 3 items"}
+{"timestamp": "2026-01-01T12:07:43.408239+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3863 completed checkout flow"}
+{"timestamp": "2026-01-01T12:07:44.352062+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 22ms"}
+{"timestamp": "2026-01-01T12:07:44.763707+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1684 committed"}
+{"timestamp": "2026-01-01T12:07:45.607721+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 65ms"}
+{"timestamp": "2026-01-01T12:07:46.612610+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 6799 succeeded"}
+{"timestamp": "2026-01-01T12:07:47.260619+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6062 placed"}
+{"timestamp": "2026-01-01T12:07:51.339748+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6049"}
+{"timestamp": "2026-01-01T12:07:53.770574+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:07:54.439927+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8220 completed checkout flow"}
+{"timestamp": "2026-01-01T12:07:54.576181+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6784 updated, 3 items"}
+{"timestamp": "2026-01-01T12:07:55.374822+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 40ms"}
+{"timestamp": "2026-01-01T12:07:57.790575+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 1811 succeeded"}
+{"timestamp": "2026-01-01T12:07:57.970031+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 54ms"}
+{"timestamp": "2026-01-01T12:07:58.398036+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8568 committed"}
+{"timestamp": "2026-01-01T12:07:59.512577+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 8922 placed"}
+{"timestamp": "2026-01-01T12:08:02.954188+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3434"}
+{"timestamp": "2026-01-01T12:08:04.590652+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:08:06.346463+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6158 completed checkout flow"}
+{"timestamp": "2026-01-01T12:08:07.268826+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1325 updated, 3 items"}
+{"timestamp": "2026-01-01T12:08:07.467188+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 20ms"}
+{"timestamp": "2026-01-01T12:08:08.234782+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3959 succeeded"}
+{"timestamp": "2026-01-01T12:08:11.561271+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9553 committed"}
+{"timestamp": "2026-01-01T12:08:11.625399+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 38ms"}
+{"timestamp": "2026-01-01T12:08:12.968902+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5826 placed"}
+{"timestamp": "2026-01-01T12:08:15.103210+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9793"}
+{"timestamp": "2026-01-01T12:08:18.125601+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:08:19.825021+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 51ms"}
+{"timestamp": "2026-01-01T12:08:20.189141+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1459 completed checkout flow"}
+{"timestamp": "2026-01-01T12:08:20.886228+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5040 updated, 3 items"}
+{"timestamp": "2026-01-01T12:08:21.994359+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5199 succeeded"}
+{"timestamp": "2026-01-01T12:08:23.435334+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3061 committed"}
+{"timestamp": "2026-01-01T12:08:24.921562+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 36ms"}
+{"timestamp": "2026-01-01T12:08:26.653247+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6773"}
+{"timestamp": "2026-01-01T12:08:26.910494+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7888 placed"}
+{"timestamp": "2026-01-01T12:08:29.465285+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:08:30.606218+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6884 completed checkout flow"}
+{"timestamp": "2026-01-01T12:08:33.045843+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9795 succeeded"}
+{"timestamp": "2026-01-01T12:08:33.149913+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7600 updated, 3 items"}
+{"timestamp": "2026-01-01T12:08:33.537794+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6033 committed"}
+{"timestamp": "2026-01-01T12:08:33.708290+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 20ms"}
+{"timestamp": "2026-01-01T12:08:36.463903+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 35ms"}
+{"timestamp": "2026-01-01T12:08:37.256137+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7429"}
+{"timestamp": "2026-01-01T12:08:38.088877+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9636 placed"}
+{"timestamp": "2026-01-01T12:08:40.332269+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:08:40.914366+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1137 completed checkout flow"}
+{"timestamp": "2026-01-01T12:08:43.403141+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2816 updated, 3 items"}
+{"timestamp": "2026-01-01T12:08:44.101547+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9498 succeeded"}
+{"timestamp": "2026-01-01T12:08:44.878592+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 7074 committed"}
+{"timestamp": "2026-01-01T12:08:47.462146+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 34ms"}
+{"timestamp": "2026-01-01T12:08:48.977614+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 64ms"}
+{"timestamp": "2026-01-01T12:08:49.628046+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2963"}
+{"timestamp": "2026-01-01T12:08:49.787946+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9834 placed"}
+{"timestamp": "2026-01-01T12:08:50.370277+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:08:53.085112+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7388 completed checkout flow"}
+{"timestamp": "2026-01-01T12:08:57.120573+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4975 updated, 3 items"}
+{"timestamp": "2026-01-01T12:08:57.160033+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8082 succeeded"}
+{"timestamp": "2026-01-01T12:08:57.418377+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5191 committed"}
+{"timestamp": "2026-01-01T12:08:58.811001+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 23ms"}
+{"timestamp": "2026-01-01T12:09:00.076006+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "699a67eced6ef3c9"}
+{"timestamp": "2026-01-01T12:09:00.244437+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 52ms"}
+{"timestamp": "2026-01-01T12:09:01.693457+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:09:02.459636+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5047"}
+{"timestamp": "2026-01-01T12:09:05.249703+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3467 completed checkout flow"}
+{"timestamp": "2026-01-01T12:09:07.823452+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6225 committed"}
+{"timestamp": "2026-01-01T12:09:08.053997+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2686 updated, 3 items"}
+{"timestamp": "2026-01-01T12:09:10.408277+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "fe8fa336147ba351"}
+{"timestamp": "2026-01-01T12:09:10.605614+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 25ms"}
+{"timestamp": "2026-01-01T12:09:12.224580+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 59ms"}
+{"timestamp": "2026-01-01T12:09:13.397519+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3956"}
+{"timestamp": "2026-01-01T12:09:13.621815+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9219 placed"}
+{"timestamp": "2026-01-01T12:09:15.328493+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:09:16.688989+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9166 completed checkout flow"}
+{"timestamp": "2026-01-01T12:09:18.079118+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2310 updated, 3 items"}
+{"timestamp": "2026-01-01T12:09:21.300868+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6683 committed"}
+{"timestamp": "2026-01-01T12:09:23.350688+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 29ms"}
+{"timestamp": "2026-01-01T12:09:23.628263+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 39ms"}
+{"timestamp": "2026-01-01T12:09:24.036452+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "64c64e1f52202729"}
+{"timestamp": "2026-01-01T12:09:24.217684+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9469"}
+{"timestamp": "2026-01-01T12:09:25.786091+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3582 placed"}
+{"timestamp": "2026-01-01T12:09:27.064002+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:09:27.069171+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4347 completed checkout flow"}
+{"timestamp": "2026-01-01T12:09:30.079918+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4624 updated, 3 items"}
+{"timestamp": "2026-01-01T12:09:33.837806+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2490 committed"}
+{"timestamp": "2026-01-01T12:09:33.905847+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 35ms"}
+{"timestamp": "2026-01-01T12:09:35.971185+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7770 succeeded"}
+{"timestamp": "2026-01-01T12:09:37.463399+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 31ms"}
+{"timestamp": "2026-01-01T12:09:37.761511+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2230"}
+{"timestamp": "2026-01-01T12:09:38.394497+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7887 completed checkout flow"}
+{"timestamp": "2026-01-01T12:09:39.648570+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4636 placed"}
+{"timestamp": "2026-01-01T12:09:40.289633+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9646 updated, 3 items"}
+{"timestamp": "2026-01-01T12:09:40.778879+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:09:46.133830+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 53ms"}
+{"timestamp": "2026-01-01T12:09:46.831698+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5487 committed"}
+{"timestamp": "2026-01-01T12:09:47.577945+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8914 succeeded"}
+{"timestamp": "2026-01-01T12:09:48.960910+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5336"}
+{"timestamp": "2026-01-01T12:09:49.836145+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6614 completed checkout flow"}
+{"timestamp": "2026-01-01T12:09:50.817005+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 23ms"}
+{"timestamp": "2026-01-01T12:09:53.349657+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:09:53.583601+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4130 placed"}
+{"timestamp": "2026-01-01T12:09:53.973525+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3074 updated, 3 items"}
+{"timestamp": "2026-01-01T12:09:56.853914+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4732 committed"}
+{"timestamp": "2026-01-01T12:09:57.656859+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "5c329619885ff34b"}
+{"timestamp": "2026-01-01T12:09:59.529342+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 68ms"}
+{"timestamp": "2026-01-01T12:10:00.586207+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1767 completed checkout flow"}
+{"timestamp": "2026-01-01T12:10:02.016131+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5691"}
+{"timestamp": "2026-01-01T12:10:03.970642+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 36ms"}
+{"timestamp": "2026-01-01T12:10:04.592695+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8533 updated, 3 items"}
+{"timestamp": "2026-01-01T12:10:05.614039+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2152 placed"}
+{"timestamp": "2026-01-01T12:10:05.940037+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:10:06.897234+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2762 committed"}
+{"timestamp": "2026-01-01T12:10:10.180841+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2360 succeeded"}
+{"timestamp": "2026-01-01T12:10:11.932039+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2010 completed checkout flow"}
+{"timestamp": "2026-01-01T12:10:12.037319+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 24ms"}
+{"timestamp": "2026-01-01T12:10:13.144949+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1469"}
+{"timestamp": "2026-01-01T12:10:16.310465+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 70ms"}
+{"timestamp": "2026-01-01T12:10:16.845800+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2514 placed"}
+{"timestamp": "2026-01-01T12:10:17.533533+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3993 updated, 3 items"}
+{"timestamp": "2026-01-01T12:10:17.997786+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2423 committed"}
+{"timestamp": "2026-01-01T12:10:19.321605+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:10:20.216576+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 1429 succeeded"}
+{"timestamp": "2026-01-01T12:10:22.837366+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 36ms"}
+{"timestamp": "2026-01-01T12:10:25.381227+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2033 completed checkout flow"}
+{"timestamp": "2026-01-01T12:10:25.820145+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5424"}
+{"timestamp": "2026-01-01T12:10:28.369676+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 38ms"}
+{"timestamp": "2026-01-01T12:10:29.599155+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8167 updated, 3 items"}
+{"timestamp": "2026-01-01T12:10:29.793501+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 1697 placed"}
+{"timestamp": "2026-01-01T12:10:30.213519+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:10:31.208930+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3550 committed"}
+{"timestamp": "2026-01-01T12:10:31.384233+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7947 succeeded"}
+{"timestamp": "2026-01-01T12:10:35.715108+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 22ms"}
+{"timestamp": "2026-01-01T12:10:37.100337+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3175 completed checkout flow"}
+{"timestamp": "2026-01-01T12:10:38.920433+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1819"}
+{"timestamp": "2026-01-01T12:10:39.406062+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 73ms"}
+{"timestamp": "2026-01-01T12:10:41.537487+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "8be18456643a3daa"}
+{"timestamp": "2026-01-01T12:10:41.996129+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3660 updated, 3 items"}
+{"timestamp": "2026-01-01T12:10:43.500518+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:10:44.496754+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "d337316a3f6fc33e"}
+{"timestamp": "2026-01-01T12:10:45.199895+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4676 committed"}
+{"timestamp": "2026-01-01T12:10:48.384249+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6538 completed checkout flow"}
+{"timestamp": "2026-01-01T12:10:48.994026+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 90ms"}
+{"timestamp": "2026-01-01T12:10:52.203957+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 37ms"}
+{"timestamp": "2026-01-01T12:10:52.628436+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4102"}
+{"timestamp": "2026-01-01T12:10:53.978530+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6750 updated, 3 items"}
+{"timestamp": "2026-01-01T12:10:54.595234+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "ba14e3fd2954de9c"}
+{"timestamp": "2026-01-01T12:10:56.039580+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:10:56.444869+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9390 committed"}
+{"timestamp": "2026-01-01T12:10:57.154908+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7152 succeeded"}
+{"timestamp": "2026-01-01T12:11:00.977042+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4731 completed checkout flow"}
+{"timestamp": "2026-01-01T12:11:01.546956+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 87ms"}
+{"timestamp": "2026-01-01T12:11:03.215825+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 36ms"}
+{"timestamp": "2026-01-01T12:11:04.561057+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4066 updated, 3 items"}
+{"timestamp": "2026-01-01T12:11:05.485510+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6168"}
+{"timestamp": "2026-01-01T12:11:06.189318+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "ef5a3c7cdd16dca0"}
+{"timestamp": "2026-01-01T12:11:06.368699+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:11:08.452483+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6565 committed"}
+{"timestamp": "2026-01-01T12:11:08.725086+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "ddc266242e9c42fd"}
+{"timestamp": "2026-01-01T12:11:13.898668+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 78ms"}
+{"timestamp": "2026-01-01T12:11:14.677533+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 58ms"}
+{"timestamp": "2026-01-01T12:11:14.966447+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8762 completed checkout flow"}
+{"timestamp": "2026-01-01T12:11:15.985343+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7066"}
+{"timestamp": "2026-01-01T12:11:16.991383+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9223 placed"}
+{"timestamp": "2026-01-01T12:11:18.470884+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5102 updated, 3 items"}
+{"timestamp": "2026-01-01T12:11:19.627841+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:11:19.876236+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "2f1a4b2c32f4f603"}
+{"timestamp": "2026-01-01T12:11:21.787038+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3168 committed"}
+{"timestamp": "2026-01-01T12:11:25.502345+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 79ms"}
+{"timestamp": "2026-01-01T12:11:25.931705+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 24ms"}
+{"timestamp": "2026-01-01T12:11:26.925811+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9923 completed checkout flow"}
+{"timestamp": "2026-01-01T12:11:28.059895+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6356"}
+{"timestamp": "2026-01-01T12:11:29.826609+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:11:30.575311+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3592 placed"}
+{"timestamp": "2026-01-01T12:11:31.180254+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "c1e093b230c4f682"}
+{"timestamp": "2026-01-01T12:11:32.394299+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8609 updated, 3 items"}
+{"timestamp": "2026-01-01T12:11:33.026635+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 7212 committed"}
+{"timestamp": "2026-01-01T12:11:36.861600+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 76ms"}
+{"timestamp": "2026-01-01T12:11:38.869347+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 56ms"}
+{"timestamp": "2026-01-01T12:11:39.236231+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2495"}
+{"timestamp": "2026-01-01T12:11:39.852412+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:11:40.276367+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9362 completed checkout flow"}
+{"timestamp": "2026-01-01T12:11:40.677487+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9389 placed"}
+{"timestamp": "2026-01-01T12:11:43.146821+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5414 updated, 3 items"}
+{"timestamp": "2026-01-01T12:11:43.894901+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "963139f86393d753"}
+{"timestamp": "2026-01-01T12:11:44.680840+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2946 committed"}
+{"timestamp": "2026-01-01T12:11:47.864723+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 49ms"}
+{"timestamp": "2026-01-01T12:11:50.029181+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:11:51.603828+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2491"}
+{"timestamp": "2026-01-01T12:11:52.430713+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7574 completed checkout flow"}
+{"timestamp": "2026-01-01T12:11:52.672137+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 29ms"}
+{"timestamp": "2026-01-01T12:11:54.318760+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "7d98608bc874b369"}
+{"timestamp": "2026-01-01T12:11:54.400344+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "6969eadf3f9fc71c"}
+{"timestamp": "2026-01-01T12:11:56.246117+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1514 updated, 3 items"}
+{"timestamp": "2026-01-01T12:11:56.545743+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2126 committed"}
+{"timestamp": "2026-01-01T12:11:58.891160+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 74ms"}
+{"timestamp": "2026-01-01T12:12:01.063441+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:12:03.298922+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3571"}
+{"timestamp": "2026-01-01T12:12:04.633045+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 51ms"}
+{"timestamp": "2026-01-01T12:12:05.098588+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 1759 placed"}
+{"timestamp": "2026-01-01T12:12:05.793878+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3775 completed checkout flow"}
+{"timestamp": "2026-01-01T12:12:07.032182+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "464f4a93236b6120"}
+{"timestamp": "2026-01-01T12:12:09.531159+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7988 updated, 3 items"}
+{"timestamp": "2026-01-01T12:12:09.942209+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4032 committed"}
+{"timestamp": "2026-01-01T12:12:10.995920+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 20ms"}
+{"timestamp": "2026-01-01T12:12:12.751368+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:12:15.722268+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 22ms"}
+{"timestamp": "2026-01-01T12:12:16.349702+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7668"}
+{"timestamp": "2026-01-01T12:12:16.968424+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "352d62110c338a27"}
+{"timestamp": "2026-01-01T12:12:17.441037+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8416 completed checkout flow"}
+{"timestamp": "2026-01-01T12:12:17.836197+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "ac45bf1e0815d7c6"}
+{"timestamp": "2026-01-01T12:12:20.740148+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9975 updated, 3 items"}
+{"timestamp": "2026-01-01T12:12:21.137918+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 72ms"}
+{"timestamp": "2026-01-01T12:12:22.285778+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9269 committed"}
+{"timestamp": "2026-01-01T12:12:26.139455+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:12:27.625666+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8394 completed checkout flow"}
+{"timestamp": "2026-01-01T12:12:27.980532+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 86ms"}
+{"timestamp": "2026-01-01T12:12:28.438066+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5329 placed"}
+{"timestamp": "2026-01-01T12:12:29.978831+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9772"}
+{"timestamp": "2026-01-01T12:12:31.281384+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2153 succeeded"}
+{"timestamp": "2026-01-01T12:12:31.582618+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 31ms"}
+{"timestamp": "2026-01-01T12:12:32.649245+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5432 updated, 3 items"}
+{"timestamp": "2026-01-01T12:12:33.320881+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3458 committed"}
+{"timestamp": "2026-01-01T12:12:39.499718+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 84ms"}
+{"timestamp": "2026-01-01T12:12:39.536424+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:12:40.274658+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6467"}
+{"timestamp": "2026-01-01T12:12:41.139878+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6257 placed"}
+{"timestamp": "2026-01-01T12:12:41.606697+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2940 completed checkout flow"}
+{"timestamp": "2026-01-01T12:12:41.990263+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 22ms"}
+{"timestamp": "2026-01-01T12:12:42.123131+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8564 succeeded"}
+{"timestamp": "2026-01-01T12:12:43.637756+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6980 updated, 3 items"}
+{"timestamp": "2026-01-01T12:12:45.429359+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1875 committed"}
+{"timestamp": "2026-01-01T12:12:50.885152+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 64ms"}
+{"timestamp": "2026-01-01T12:12:51.101505+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:12:51.184874+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7274 placed"}
+{"timestamp": "2026-01-01T12:12:53.726444+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7995 succeeded"}
+{"timestamp": "2026-01-01T12:12:53.963498+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2178"}
+{"timestamp": "2026-01-01T12:12:54.992604+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 33ms"}
+{"timestamp": "2026-01-01T12:12:55.356235+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3868 completed checkout flow"}
+{"timestamp": "2026-01-01T12:12:55.725578+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5034 updated, 3 items"}
+{"timestamp": "2026-01-01T12:12:58.730102+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8392 committed"}
+{"timestamp": "2026-01-01T12:13:01.898048+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 27ms"}
+{"timestamp": "2026-01-01T12:13:02.601636+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:13:03.943865+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5859 placed"}
+{"timestamp": "2026-01-01T12:13:05.090364+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 79ms"}
+{"timestamp": "2026-01-01T12:13:05.569222+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 5472 succeeded"}
+{"timestamp": "2026-01-01T12:13:05.665581+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8498 completed checkout flow"}
+{"timestamp": "2026-01-01T12:13:05.797188+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4917"}
+{"timestamp": "2026-01-01T12:13:07.949958+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3613 updated, 3 items"}
+{"timestamp": "2026-01-01T12:13:09.936887+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5288 committed"}
+{"timestamp": "2026-01-01T12:13:13.516664+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 85ms"}
+{"timestamp": "2026-01-01T12:13:13.743232+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:13:14.239611+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7868 placed"}
+{"timestamp": "2026-01-01T12:13:16.329268+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 68ms"}
+{"timestamp": "2026-01-01T12:13:16.404125+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "fbb8fb47e90ae030"}
+{"timestamp": "2026-01-01T12:13:18.605863+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7984"}
+{"timestamp": "2026-01-01T12:13:18.857292+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5144 completed checkout flow"}
+{"timestamp": "2026-01-01T12:13:19.793446+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7878 updated, 3 items"}
+{"timestamp": "2026-01-01T12:13:23.391326+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6101 committed"}
+{"timestamp": "2026-01-01T12:13:23.866727+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:13:25.309185+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 78ms"}
+{"timestamp": "2026-01-01T12:13:27.832445+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "94cdc7ad881a92ab"}
+{"timestamp": "2026-01-01T12:13:29.068014+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 46ms"}
+{"timestamp": "2026-01-01T12:13:29.281132+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4614 completed checkout flow"}
+{"timestamp": "2026-01-01T12:13:29.751824+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "400c27c9879325bc"}
+{"timestamp": "2026-01-01T12:13:30.232392+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7337 updated, 3 items"}
+{"timestamp": "2026-01-01T12:13:31.942944+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9131"}
+{"timestamp": "2026-01-01T12:13:35.835202+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:13:37.159114+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 7293 committed"}
+{"timestamp": "2026-01-01T12:13:38.073376+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 77ms"}
+{"timestamp": "2026-01-01T12:13:38.444564+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "f9d4655a36c6b770"}
+{"timestamp": "2026-01-01T12:13:39.973685+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8000 completed checkout flow"}
+{"timestamp": "2026-01-01T12:13:40.701066+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9540 updated, 3 items"}
+{"timestamp": "2026-01-01T12:13:40.770410+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 22ms"}
+{"timestamp": "2026-01-01T12:13:43.392272+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "eb69897f92cda235"}
+{"timestamp": "2026-01-01T12:13:44.523173+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6667"}
+{"timestamp": "2026-01-01T12:13:46.828122+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:13:48.705403+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 60ms"}
+{"timestamp": "2026-01-01T12:13:51.059590+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9752 committed"}
+{"timestamp": "2026-01-01T12:13:51.164278+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 8801 placed"}
+{"timestamp": "2026-01-01T12:13:52.519547+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8414 updated, 3 items"}
+{"timestamp": "2026-01-01T12:13:52.652742+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6505 completed checkout flow"}
+{"timestamp": "2026-01-01T12:13:54.296158+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 87ms"}
+{"timestamp": "2026-01-01T12:13:57.191495+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "180ffecf154e7ba5"}
+{"timestamp": "2026-01-01T12:13:57.724824+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1223"}
+{"timestamp": "2026-01-01T12:13:59.367537+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:14:01.484211+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 61ms"}
+{"timestamp": "2026-01-01T12:14:01.698750+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4875 committed"}
+{"timestamp": "2026-01-01T12:14:02.886968+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2689 placed"}
+{"timestamp": "2026-01-01T12:14:04.984716+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6714 updated, 3 items"}
+{"timestamp": "2026-01-01T12:14:06.538759+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1815 completed checkout flow"}
+{"timestamp": "2026-01-01T12:14:07.978623+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 81ms"}
+{"timestamp": "2026-01-01T12:14:10.543718+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 6607 succeeded"}
+{"timestamp": "2026-01-01T12:14:11.035105+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4428"}
+{"timestamp": "2026-01-01T12:14:12.099333+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 89ms"}
+{"timestamp": "2026-01-01T12:14:12.949077+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:14:13.341431+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5923 committed"}
+{"timestamp": "2026-01-01T12:14:15.647001+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3849 updated, 3 items"}
+{"timestamp": "2026-01-01T12:14:16.246323+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "b881ae1a05ef4fe1"}
+{"timestamp": "2026-01-01T12:14:18.056555+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 35ms"}
+{"timestamp": "2026-01-01T12:14:19.971653+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4957 completed checkout flow"}
+{"timestamp": "2026-01-01T12:14:21.224306+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9756"}
+{"timestamp": "2026-01-01T12:14:21.690471+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "3214bfeaa7bb90ed"}
+{"timestamp": "2026-01-01T12:14:23.321138+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 54ms"}
+{"timestamp": "2026-01-01T12:14:23.345479+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9027 committed"}
+{"timestamp": "2026-01-01T12:14:26.539579+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:14:27.281008+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3828 updated, 3 items"}
+{"timestamp": "2026-01-01T12:14:28.365863+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 1499 placed"}
+{"timestamp": "2026-01-01T12:14:29.214878+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 67ms"}
+{"timestamp": "2026-01-01T12:14:30.230137+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1497 completed checkout flow"}
+{"timestamp": "2026-01-01T12:14:32.202188+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8171"}
+{"timestamp": "2026-01-01T12:14:34.303983+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4178 committed"}
+{"timestamp": "2026-01-01T12:14:34.731767+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9204 succeeded"}
+{"timestamp": "2026-01-01T12:14:35.336979+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 73ms"}
+{"timestamp": "2026-01-01T12:14:37.530240+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:14:38.909007+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7634 updated, 3 items"}
+{"timestamp": "2026-01-01T12:14:38.985550+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "04a1ea8b1eb214f9"}
+{"timestamp": "2026-01-01T12:14:39.291098+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 72ms"}
+{"timestamp": "2026-01-01T12:14:40.784671+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9882 completed checkout flow"}
+{"timestamp": "2026-01-01T12:14:43.341394+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7930"}
+{"timestamp": "2026-01-01T12:14:45.749532+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "c192cc7e819985dd"}
+{"timestamp": "2026-01-01T12:14:46.646682+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5202 committed"}
+{"timestamp": "2026-01-01T12:14:47.973278+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 30ms"}
+{"timestamp": "2026-01-01T12:14:49.711164+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 45ms"}
+{"timestamp": "2026-01-01T12:14:50.105770+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6137 updated, 3 items"}
+{"timestamp": "2026-01-01T12:14:51.025906+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9948 completed checkout flow"}
+{"timestamp": "2026-01-01T12:14:51.463132+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:14:51.558552+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "e61ef0975995aa2a"}
+{"timestamp": "2026-01-01T12:14:55.953491+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3512"}
+{"timestamp": "2026-01-01T12:14:56.334645+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "4d3a48cc1e4e77b1"}
+{"timestamp": "2026-01-01T12:14:59.190228+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 71ms"}
+{"timestamp": "2026-01-01T12:14:59.262463+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6869 committed"}
+{"timestamp": "2026-01-01T12:15:01.719503+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:15:02.659839+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7743 placed"}
+{"timestamp": "2026-01-01T12:15:02.775414+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1659 updated, 3 items"}
+{"timestamp": "2026-01-01T12:15:02.959406+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 27ms"}
+{"timestamp": "2026-01-01T12:15:04.700200+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6531 completed checkout flow"}
+{"timestamp": "2026-01-01T12:15:06.367285+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4848"}
+{"timestamp": "2026-01-01T12:15:08.434007+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9397 succeeded"}
+{"timestamp": "2026-01-01T12:15:11.300337+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8566 committed"}
+{"timestamp": "2026-01-01T12:15:11.429647+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 28ms"}
+{"timestamp": "2026-01-01T12:15:12.695542+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "e7558e6629bcfc80"}
+{"timestamp": "2026-01-01T12:15:13.599651+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2872 updated, 3 items"}
+{"timestamp": "2026-01-01T12:15:15.093693+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:15:15.508585+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 79ms"}
+{"timestamp": "2026-01-01T12:15:17.427583+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3293 completed checkout flow"}
+{"timestamp": "2026-01-01T12:15:18.401919+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8266"}
+{"timestamp": "2026-01-01T12:15:19.790712+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8292 succeeded"}
+{"timestamp": "2026-01-01T12:15:22.649215+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8635 committed"}
+{"timestamp": "2026-01-01T12:15:23.642391+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6284 updated, 3 items"}
+{"timestamp": "2026-01-01T12:15:24.169798+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 79ms"}
+{"timestamp": "2026-01-01T12:15:25.168640+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 5532 placed"}
+{"timestamp": "2026-01-01T12:15:26.183480+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:15:28.913669+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3158 completed checkout flow"}
+{"timestamp": "2026-01-01T12:15:29.066753+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 29ms"}
+{"timestamp": "2026-01-01T12:15:29.610837+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9818"}
+{"timestamp": "2026-01-01T12:15:29.904826+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "6604f7f387a28657"}
+{"timestamp": "2026-01-01T12:15:32.932624+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5009 committed"}
+{"timestamp": "2026-01-01T12:15:34.652185+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 88ms"}
+{"timestamp": "2026-01-01T12:15:35.577237+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4539 placed"}
+{"timestamp": "2026-01-01T12:15:36.062442+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3926 updated, 3 items"}
+{"timestamp": "2026-01-01T12:15:39.261591+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:15:40.204190+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 67ms"}
+{"timestamp": "2026-01-01T12:15:40.636739+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9521 succeeded"}
+{"timestamp": "2026-01-01T12:15:40.987893+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3860"}
+{"timestamp": "2026-01-01T12:15:41.074205+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2773 completed checkout flow"}
+{"timestamp": "2026-01-01T12:15:45.635670+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3254 committed"}
+{"timestamp": "2026-01-01T12:15:45.849408+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 88ms"}
+{"timestamp": "2026-01-01T12:15:48.852996+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "2d0b415ed304f19f"}
+{"timestamp": "2026-01-01T12:15:49.053047+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2318 updated, 3 items"}
+{"timestamp": "2026-01-01T12:15:50.169503+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:15:52.295924+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "4698fd24e5fc36e0"}
+{"timestamp": "2026-01-01T12:15:52.939683+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4526 completed checkout flow"}
+{"timestamp": "2026-01-01T12:15:53.917803+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6464"}
+{"timestamp": "2026-01-01T12:15:53.945272+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 29ms"}
+{"timestamp": "2026-01-01T12:15:56.343833+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6433 committed"}
+{"timestamp": "2026-01-01T12:15:59.454707+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 72ms"}
+{"timestamp": "2026-01-01T12:16:01.040145+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:16:01.160573+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7591 updated, 3 items"}
+{"timestamp": "2026-01-01T12:16:01.350463+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3020 placed"}
+{"timestamp": "2026-01-01T12:16:03.756940+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "aef4a5a9e3f62db4"}
+{"timestamp": "2026-01-01T12:16:05.445188+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7452 completed checkout flow"}
+{"timestamp": "2026-01-01T12:16:06.965208+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 44ms"}
+{"timestamp": "2026-01-01T12:16:07.872131+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6845"}
+{"timestamp": "2026-01-01T12:16:09.220205+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6527 committed"}
+{"timestamp": "2026-01-01T12:16:12.458812+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 73ms"}
+{"timestamp": "2026-01-01T12:16:13.640652+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8285 updated, 3 items"}
+{"timestamp": "2026-01-01T12:16:13.682513+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6409 placed"}
+{"timestamp": "2026-01-01T12:16:14.103700+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:16:16.419781+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "b1e6fd595ee4e415"}
+{"timestamp": "2026-01-01T12:16:19.061927+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9308 completed checkout flow"}
+{"timestamp": "2026-01-01T12:16:19.251419+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 70ms"}
+{"timestamp": "2026-01-01T12:16:19.680907+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8795 committed"}
+{"timestamp": "2026-01-01T12:16:20.298246+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4144"}
+{"timestamp": "2026-01-01T12:16:23.747313+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 78ms"}
+{"timestamp": "2026-01-01T12:16:26.448090+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3159 placed"}
+{"timestamp": "2026-01-01T12:16:26.574500+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:16:27.180955+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6645 updated, 3 items"}
+{"timestamp": "2026-01-01T12:16:29.682650+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8082 succeeded"}
+{"timestamp": "2026-01-01T12:16:29.810080+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 64ms"}
+{"timestamp": "2026-01-01T12:16:31.511707+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6660"}
+{"timestamp": "2026-01-01T12:16:32.113488+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9414 committed"}
+{"timestamp": "2026-01-01T12:16:32.185718+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9371 completed checkout flow"}
+{"timestamp": "2026-01-01T12:16:36.504490+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 79ms"}
+{"timestamp": "2026-01-01T12:16:37.302471+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3293 updated, 3 items"}
+{"timestamp": "2026-01-01T12:16:38.728289+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6894 placed"}
+{"timestamp": "2026-01-01T12:16:40.068403+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:16:41.040345+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "ad4b03e14570235d"}
+{"timestamp": "2026-01-01T12:16:42.265581+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4494"}
+{"timestamp": "2026-01-01T12:16:42.302778+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9951 committed"}
+{"timestamp": "2026-01-01T12:16:42.607500+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4445 completed checkout flow"}
+{"timestamp": "2026-01-01T12:16:43.360847+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 52ms"}
+{"timestamp": "2026-01-01T12:16:50.159126+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1154 updated, 3 items"}
+{"timestamp": "2026-01-01T12:16:50.363518+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 71ms"}
+{"timestamp": "2026-01-01T12:16:50.658760+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:16:50.695830+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "630d183736a7c990"}
+{"timestamp": "2026-01-01T12:16:51.598299+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2227 succeeded"}
+{"timestamp": "2026-01-01T12:16:53.301383+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5872 completed checkout flow"}
+{"timestamp": "2026-01-01T12:16:53.496379+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 4798 committed"}
+{"timestamp": "2026-01-01T12:16:53.852681+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 62ms"}
+{"timestamp": "2026-01-01T12:16:55.333792+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8408"}
+{"timestamp": "2026-01-01T12:17:00.397554+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 87ms"}
+{"timestamp": "2026-01-01T12:17:01.144238+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:17:01.478414+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1081 updated, 3 items"}
+{"timestamp": "2026-01-01T12:17:01.658056+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "d1e2b6b9ba39e88b"}
+{"timestamp": "2026-01-01T12:17:01.830668+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "fe85ac1cd1a56741"}
+{"timestamp": "2026-01-01T12:17:04.663936+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8007 completed checkout flow"}
+{"timestamp": "2026-01-01T12:17:06.308916+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1023 committed"}
+{"timestamp": "2026-01-01T12:17:07.570588+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8987"}
+{"timestamp": "2026-01-01T12:17:07.691355+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 33ms"}
+{"timestamp": "2026-01-01T12:17:11.365427+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 45ms"}
+{"timestamp": "2026-01-01T12:17:11.665246+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:17:14.092053+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9875 placed"}
+{"timestamp": "2026-01-01T12:17:14.978813+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4652 updated, 3 items"}
+{"timestamp": "2026-01-01T12:17:15.185543+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5903 completed checkout flow"}
+{"timestamp": "2026-01-01T12:17:15.301210+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "8b34e784df64db36"}
+{"timestamp": "2026-01-01T12:17:19.158716+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2910 committed"}
+{"timestamp": "2026-01-01T12:17:20.113299+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5710"}
+{"timestamp": "2026-01-01T12:17:20.164083+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 80ms"}
+{"timestamp": "2026-01-01T12:17:24.031253+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:17:24.103670+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 46ms"}
+{"timestamp": "2026-01-01T12:17:26.102071+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "a5ac1b548d966491"}
+{"timestamp": "2026-01-01T12:17:27.192919+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 6087 placed"}
+{"timestamp": "2026-01-01T12:17:27.942373+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3718 updated, 3 items"}
+{"timestamp": "2026-01-01T12:17:28.431562+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8746 completed checkout flow"}
+{"timestamp": "2026-01-01T12:17:32.364002+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1838 committed"}
+{"timestamp": "2026-01-01T12:17:33.058156+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 83ms"}
+{"timestamp": "2026-01-01T12:17:33.726983+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6922"}
+{"timestamp": "2026-01-01T12:17:36.189172+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:17:37.476523+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "97b1df0b99518ddf"}
+{"timestamp": "2026-01-01T12:17:37.628672+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 88ms"}
+{"timestamp": "2026-01-01T12:17:39.278284+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8958 updated, 3 items"}
+{"timestamp": "2026-01-01T12:17:39.521049+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9010 completed checkout flow"}
+{"timestamp": "2026-01-01T12:17:41.095119+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3295 placed"}
+{"timestamp": "2026-01-01T12:17:42.855268+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3590 committed"}
+{"timestamp": "2026-01-01T12:17:43.739310+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6213"}
+{"timestamp": "2026-01-01T12:17:44.488494+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 78ms"}
+{"timestamp": "2026-01-01T12:17:47.443265+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:17:49.215933+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 68ms"}
+{"timestamp": "2026-01-01T12:17:50.499469+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3545 succeeded"}
+{"timestamp": "2026-01-01T12:17:51.139802+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2407 updated, 3 items"}
+{"timestamp": "2026-01-01T12:17:53.468595+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7892 completed checkout flow"}
+{"timestamp": "2026-01-01T12:17:53.528115+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7972 placed"}
+{"timestamp": "2026-01-01T12:17:56.435092+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 7759 committed"}
+{"timestamp": "2026-01-01T12:17:56.858391+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5335"}
+{"timestamp": "2026-01-01T12:17:57.683382+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 54ms"}
+{"timestamp": "2026-01-01T12:17:58.634237+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:18:01.582997+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 70ms"}
+{"timestamp": "2026-01-01T12:18:02.828999+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 8622 succeeded"}
+{"timestamp": "2026-01-01T12:18:03.154578+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4960 updated, 3 items"}
+{"timestamp": "2026-01-01T12:18:06.280951+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 2703 completed checkout flow"}
+{"timestamp": "2026-01-01T12:18:06.979604+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3793 committed"}
+{"timestamp": "2026-01-01T12:18:07.078162+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4056 placed"}
+{"timestamp": "2026-01-01T12:18:07.681581+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1151"}
+{"timestamp": "2026-01-01T12:18:09.788597+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 81ms"}
+{"timestamp": "2026-01-01T12:18:11.373682+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:18:14.601323+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3968 updated, 3 items"}
+{"timestamp": "2026-01-01T12:18:14.655655+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 69ms"}
+{"timestamp": "2026-01-01T12:18:16.403411+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4309 completed checkout flow"}
+{"timestamp": "2026-01-01T12:18:16.500544+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 3737 succeeded"}
+{"timestamp": "2026-01-01T12:18:17.030901+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9464 committed"}
+{"timestamp": "2026-01-01T12:18:19.663881+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "a280335a9fced263"}
+{"timestamp": "2026-01-01T12:18:19.744937+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9093"}
+{"timestamp": "2026-01-01T12:18:21.771432+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:18:23.516812+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 57ms"}
+{"timestamp": "2026-01-01T12:18:27.182612+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 27ms"}
+{"timestamp": "2026-01-01T12:18:27.252772+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 1640 completed checkout flow"}
+{"timestamp": "2026-01-01T12:18:28.180217+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4685 updated, 3 items"}
+{"timestamp": "2026-01-01T12:18:30.098383+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "746a95fa1e52847c"}
+{"timestamp": "2026-01-01T12:18:30.192914+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 8861 placed"}
+{"timestamp": "2026-01-01T12:18:30.949085+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8254 committed"}
+{"timestamp": "2026-01-01T12:18:32.979013+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7047"}
+{"timestamp": "2026-01-01T12:18:34.443321+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 82ms"}
+{"timestamp": "2026-01-01T12:18:35.440645+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:18:37.606887+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 53ms"}
+{"timestamp": "2026-01-01T12:18:39.018292+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4901 updated, 3 items"}
+{"timestamp": "2026-01-01T12:18:39.833138+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5300 completed checkout flow"}
+{"timestamp": "2026-01-01T12:18:40.311196+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7143 placed"}
+{"timestamp": "2026-01-01T12:18:40.943052+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "0d26214f4e1660dc"}
+{"timestamp": "2026-01-01T12:18:43.042407+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9706 committed"}
+{"timestamp": "2026-01-01T12:18:44.851540+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1276"}
+{"timestamp": "2026-01-01T12:18:45.734847+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:18:46.637565+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 30ms"}
+{"timestamp": "2026-01-01T12:18:50.610027+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4334 updated, 3 items"}
+{"timestamp": "2026-01-01T12:18:50.810228+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 25ms"}
+{"timestamp": "2026-01-01T12:18:51.326086+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "b2504c71f7b6aafb"}
+{"timestamp": "2026-01-01T12:18:52.402251+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "3368d19bf1007afd"}
+{"timestamp": "2026-01-01T12:18:52.643712+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9842 completed checkout flow"}
+{"timestamp": "2026-01-01T12:18:55.697100+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2883"}
+{"timestamp": "2026-01-01T12:18:56.116917+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5679 committed"}
+{"timestamp": "2026-01-01T12:18:56.922204+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 42ms"}
+{"timestamp": "2026-01-01T12:18:59.139039+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:19:00.913510+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 57ms"}
+{"timestamp": "2026-01-01T12:19:01.701263+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7899 succeeded"}
+{"timestamp": "2026-01-01T12:19:02.653306+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1025 updated, 3 items"}
+{"timestamp": "2026-01-01T12:19:02.819592+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3254 placed"}
+{"timestamp": "2026-01-01T12:19:02.834878+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3366 completed checkout flow"}
+{"timestamp": "2026-01-01T12:19:06.654315+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1318 committed"}
+{"timestamp": "2026-01-01T12:19:07.508208+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 73ms"}
+{"timestamp": "2026-01-01T12:19:09.198764+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3631"}
+{"timestamp": "2026-01-01T12:19:11.572130+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:19:13.716221+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 74ms"}
+{"timestamp": "2026-01-01T12:19:13.808726+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "5355d81dce140339"}
+{"timestamp": "2026-01-01T12:19:13.969258+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "a1b862037b24a0be"}
+{"timestamp": "2026-01-01T12:19:14.276264+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6927 updated, 3 items"}
+{"timestamp": "2026-01-01T12:19:15.227269+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4209 completed checkout flow"}
+{"timestamp": "2026-01-01T12:19:18.952770+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3216 committed"}
+{"timestamp": "2026-01-01T12:19:20.111568+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6064"}
+{"timestamp": "2026-01-01T12:19:20.702490+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 24ms"}
+{"timestamp": "2026-01-01T12:19:24.310075+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 24ms"}
+{"timestamp": "2026-01-01T12:19:25.255397+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:19:26.576373+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "8f36478ad8079f96"}
+{"timestamp": "2026-01-01T12:19:26.873795+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3985 updated, 3 items"}
+{"timestamp": "2026-01-01T12:19:27.505875+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 1123 placed"}
+{"timestamp": "2026-01-01T12:19:29.215839+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9917 completed checkout flow"}
+{"timestamp": "2026-01-01T12:19:29.236818+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5305 committed"}
+{"timestamp": "2026-01-01T12:19:32.978647+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3165"}
+{"timestamp": "2026-01-01T12:19:34.598149+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 69ms"}
+{"timestamp": "2026-01-01T12:19:35.623732+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:19:36.293320+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 77ms"}
+{"timestamp": "2026-01-01T12:19:36.901033+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 4539 succeeded"}
+{"timestamp": "2026-01-01T12:19:37.966370+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "71378e12ca107fd9"}
+{"timestamp": "2026-01-01T12:19:40.249618+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 3188 updated, 3 items"}
+{"timestamp": "2026-01-01T12:19:41.727666+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 7432 committed"}
+{"timestamp": "2026-01-01T12:19:42.883725+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8600 completed checkout flow"}
+{"timestamp": "2026-01-01T12:19:46.536900+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3539"}
+{"timestamp": "2026-01-01T12:19:47.064837+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 80ms"}
+{"timestamp": "2026-01-01T12:19:47.431762+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 62ms"}
+{"timestamp": "2026-01-01T12:19:48.305414+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:19:48.328130+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "47b9117ecfa3165a"}
+{"timestamp": "2026-01-01T12:19:51.712464+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4971 placed"}
+{"timestamp": "2026-01-01T12:19:53.530791+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8498 committed"}
+{"timestamp": "2026-01-01T12:19:53.920309+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1023 updated, 3 items"}
+{"timestamp": "2026-01-01T12:19:55.402038+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3581 completed checkout flow"}
+{"timestamp": "2026-01-01T12:19:58.121884+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 56ms"}
+{"timestamp": "2026-01-01T12:19:59.077015+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:19:59.274972+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 32ms"}
+{"timestamp": "2026-01-01T12:19:59.880210+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8506"}
+{"timestamp": "2026-01-01T12:20:01.980196+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "81099617a2fdc5d9"}
+{"timestamp": "2026-01-01T12:20:04.963525+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8828 committed"}
+{"timestamp": "2026-01-01T12:20:05.069554+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "63022f571cbbf78d"}
+{"timestamp": "2026-01-01T12:20:06.404979+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4226 updated, 3 items"}
+{"timestamp": "2026-01-01T12:20:08.698505+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9493 completed checkout flow"}
+{"timestamp": "2026-01-01T12:20:08.745957+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 74ms"}
+{"timestamp": "2026-01-01T12:20:11.011104+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 74ms"}
+{"timestamp": "2026-01-01T12:20:11.428715+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:20:12.201980+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6780"}
+{"timestamp": "2026-01-01T12:20:13.086108+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "06e504f816f7b37e"}
+{"timestamp": "2026-01-01T12:20:15.516720+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9427 placed"}
+{"timestamp": "2026-01-01T12:20:16.932364+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9987 committed"}
+{"timestamp": "2026-01-01T12:20:19.369625+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 7478 updated, 3 items"}
+{"timestamp": "2026-01-01T12:20:20.061332+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 51ms"}
+{"timestamp": "2026-01-01T12:20:20.974236+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7806 completed checkout flow"}
+{"timestamp": "2026-01-01T12:20:22.093009+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 44ms"}
+{"timestamp": "2026-01-01T12:20:22.888187+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:20:25.187781+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "3e680a7a8e62b1b3"}
+{"timestamp": "2026-01-01T12:20:25.649713+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 1961"}
+{"timestamp": "2026-01-01T12:20:29.308951+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 3833 placed"}
+{"timestamp": "2026-01-01T12:20:29.634841+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 3610 committed"}
+{"timestamp": "2026-01-01T12:20:31.090374+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 40ms"}
+{"timestamp": "2026-01-01T12:20:31.836996+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1170 updated, 3 items"}
+{"timestamp": "2026-01-01T12:20:33.645306+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8460 completed checkout flow"}
+{"timestamp": "2026-01-01T12:20:35.033736+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 30ms"}
+{"timestamp": "2026-01-01T12:20:35.226934+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:20:36.128479+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "68d0325fc3f5e808"}
+{"timestamp": "2026-01-01T12:20:39.471805+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4326"}
+{"timestamp": "2026-01-01T12:20:39.805339+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4711 placed"}
+{"timestamp": "2026-01-01T12:20:40.136215+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5221 committed"}
+{"timestamp": "2026-01-01T12:20:43.275327+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5994 updated, 3 items"}
+{"timestamp": "2026-01-01T12:20:44.834977+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5460 completed checkout flow"}
+{"timestamp": "2026-01-01T12:20:44.879918+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 50ms"}
+{"timestamp": "2026-01-01T12:20:47.665449+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 44ms"}
+{"timestamp": "2026-01-01T12:20:48.806965+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:20:48.961035+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "4f5b7bfcafc765df"}
+{"timestamp": "2026-01-01T12:20:50.128365+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9799 placed"}
+{"timestamp": "2026-01-01T12:20:52.703249+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4847"}
+{"timestamp": "2026-01-01T12:20:53.358946+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5414 committed"}
+{"timestamp": "2026-01-01T12:20:53.418026+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8743 updated, 3 items"}
+{"timestamp": "2026-01-01T12:20:58.377791+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 65ms"}
+{"timestamp": "2026-01-01T12:20:58.612102+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4512 completed checkout flow"}
+{"timestamp": "2026-01-01T12:21:00.177111+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:21:00.745506+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 77ms"}
+{"timestamp": "2026-01-01T12:21:01.602636+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "a0c407c0a8f36270"}
+{"timestamp": "2026-01-01T12:21:03.441959+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4674"}
+{"timestamp": "2026-01-01T12:21:03.765638+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "ce83d4f9fb2aa587"}
+{"timestamp": "2026-01-01T12:21:04.651831+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8259 committed"}
+{"timestamp": "2026-01-01T12:21:04.939792+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8581 updated, 3 items"}
+{"timestamp": "2026-01-01T12:21:10.244428+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 23ms"}
+{"timestamp": "2026-01-01T12:21:10.286450+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 9814 completed checkout flow"}
+{"timestamp": "2026-01-01T12:21:12.374431+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 43ms"}
+{"timestamp": "2026-01-01T12:21:13.113823+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:21:13.438764+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "54fd5c864f0df6f1"}
+{"timestamp": "2026-01-01T12:21:14.494032+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2415 placed"}
+{"timestamp": "2026-01-01T12:21:15.643186+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2030 updated, 3 items"}
+{"timestamp": "2026-01-01T12:21:16.401030+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 3667"}
+{"timestamp": "2026-01-01T12:21:18.435337+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8670 committed"}
+{"timestamp": "2026-01-01T12:21:23.198022+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4295 completed checkout flow"}
+{"timestamp": "2026-01-01T12:21:23.771698+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 43ms"}
+{"timestamp": "2026-01-01T12:21:25.200218+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2708 placed"}
+{"timestamp": "2026-01-01T12:21:25.503283+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 64ms"}
+{"timestamp": "2026-01-01T12:21:25.513142+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "2611be4bede4e519"}
+{"timestamp": "2026-01-01T12:21:26.485477+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:21:26.710893+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9810 updated, 3 items"}
+{"timestamp": "2026-01-01T12:21:28.948937+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8560"}
+{"timestamp": "2026-01-01T12:21:32.402899+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5425 committed"}
+{"timestamp": "2026-01-01T12:21:34.916899+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 3798 completed checkout flow"}
+{"timestamp": "2026-01-01T12:21:35.812384+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 81ms"}
+{"timestamp": "2026-01-01T12:21:37.009740+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 5789 updated, 3 items"}
+{"timestamp": "2026-01-01T12:21:37.688428+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 69ms"}
+{"timestamp": "2026-01-01T12:21:38.787557+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:21:38.822625+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 8660 placed"}
+{"timestamp": "2026-01-01T12:21:39.276003+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 7104 succeeded"}
+{"timestamp": "2026-01-01T12:21:42.045600+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4799"}
+{"timestamp": "2026-01-01T12:21:45.293894+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2581 committed"}
+{"timestamp": "2026-01-01T12:21:47.432043+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 72ms"}
+{"timestamp": "2026-01-01T12:21:47.728490+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 45ms"}
+{"timestamp": "2026-01-01T12:21:48.061846+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8446 completed checkout flow"}
+{"timestamp": "2026-01-01T12:21:48.155671+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9961 updated, 3 items"}
+{"timestamp": "2026-01-01T12:21:48.893056+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4720 placed"}
+{"timestamp": "2026-01-01T12:21:49.421340+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "ef4dddca7e0f47d0"}
+{"timestamp": "2026-01-01T12:21:51.657509+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:21:53.675726+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8079"}
+{"timestamp": "2026-01-01T12:21:58.448203+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2283 committed"}
+{"timestamp": "2026-01-01T12:21:58.872470+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 90ms"}
+{"timestamp": "2026-01-01T12:21:59.623984+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 90ms"}
+{"timestamp": "2026-01-01T12:22:00.967174+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 2416 succeeded"}
+{"timestamp": "2026-01-01T12:22:01.716966+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2274 updated, 3 items"}
+{"timestamp": "2026-01-01T12:22:01.943812+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8753 completed checkout flow"}
+{"timestamp": "2026-01-01T12:22:02.164450+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 4937 placed"}
+{"timestamp": "2026-01-01T12:22:02.902146+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:22:06.951812+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2229"}
+{"timestamp": "2026-01-01T12:22:10.027980+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 2527 committed"}
+{"timestamp": "2026-01-01T12:22:10.169510+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 86ms"}
+{"timestamp": "2026-01-01T12:22:11.725508+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 30ms"}
+{"timestamp": "2026-01-01T12:22:12.960320+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "c9cc99170bfbdde6"}
+{"timestamp": "2026-01-01T12:22:13.384965+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4052 updated, 3 items"}
+{"timestamp": "2026-01-01T12:22:14.394556+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8800 completed checkout flow"}
+{"timestamp": "2026-01-01T12:22:14.573507+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:22:15.737235+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "f9bb0b88c237556f"}
+{"timestamp": "2026-01-01T12:22:20.688195+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 6821"}
+{"timestamp": "2026-01-01T12:22:22.066989+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 74ms"}
+{"timestamp": "2026-01-01T12:22:22.434185+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6043 committed"}
+{"timestamp": "2026-01-01T12:22:23.856926+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 44ms"}
+{"timestamp": "2026-01-01T12:22:25.732372+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4245 updated, 3 items"}
+{"timestamp": "2026-01-01T12:22:25.751006+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "bd6c61d93fcf05fa"}
+{"timestamp": "2026-01-01T12:22:25.925095+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:22:26.174322+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6533 completed checkout flow"}
+{"timestamp": "2026-01-01T12:22:29.197290+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "1599fb9131a7d505"}
+{"timestamp": "2026-01-01T12:22:32.750504+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 45ms"}
+{"timestamp": "2026-01-01T12:22:33.762197+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8217"}
+{"timestamp": "2026-01-01T12:22:35.968246+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 9382 committed"}
+{"timestamp": "2026-01-01T12:22:37.122087+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 68ms"}
+{"timestamp": "2026-01-01T12:22:37.156697+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "9cc1ded3adfb8852"}
+{"timestamp": "2026-01-01T12:22:37.412169+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 7053 completed checkout flow"}
+{"timestamp": "2026-01-01T12:22:38.110426+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:22:39.161274+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 8524 updated, 3 items"}
+{"timestamp": "2026-01-01T12:22:40.887710+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 2913 placed"}
+{"timestamp": "2026-01-01T12:22:44.319129+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 27ms"}
+{"timestamp": "2026-01-01T12:22:44.432139+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 8484"}
+{"timestamp": "2026-01-01T12:22:48.373823+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 87ms"}
+{"timestamp": "2026-01-01T12:22:48.440026+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "c0ac1dbaa97e13e4"}
+{"timestamp": "2026-01-01T12:22:48.791773+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:22:48.866218+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 5187 committed"}
+{"timestamp": "2026-01-01T12:22:49.832462+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4641 completed checkout flow"}
+{"timestamp": "2026-01-01T12:22:51.980022+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7170 placed"}
+{"timestamp": "2026-01-01T12:22:52.295376+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4741 updated, 3 items"}
+{"timestamp": "2026-01-01T12:22:55.041874+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2378"}
+{"timestamp": "2026-01-01T12:22:57.591246+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 45ms"}
+{"timestamp": "2026-01-01T12:22:59.130345+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:23:00.974163+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 32ms"}
+{"timestamp": "2026-01-01T12:23:01.337123+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "c991b0be96383b66"}
+{"timestamp": "2026-01-01T12:23:02.004018+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 1714 committed"}
+{"timestamp": "2026-01-01T12:23:02.856116+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9036 placed"}
+{"timestamp": "2026-01-01T12:23:02.906621+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6043 completed checkout flow"}
+{"timestamp": "2026-01-01T12:23:05.709231+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 6024 updated, 3 items"}
+{"timestamp": "2026-01-01T12:23:06.707234+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 5848"}
+{"timestamp": "2026-01-01T12:23:09.533915+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:23:09.646581+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 36ms"}
+{"timestamp": "2026-01-01T12:23:12.117344+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8705 committed"}
+{"timestamp": "2026-01-01T12:23:12.585850+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 47ms"}
+{"timestamp": "2026-01-01T12:23:12.997018+00:00", "host": "core-host", "service": "payment", "severity_text": "INFO", "body": "charge 9679 succeeded"}
+{"timestamp": "2026-01-01T12:23:14.626980+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 1981 placed"}
+{"timestamp": "2026-01-01T12:23:16.383247+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 5901 completed checkout flow"}
+{"timestamp": "2026-01-01T12:23:17.614985+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 2470"}
+{"timestamp": "2026-01-01T12:23:18.926706+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 4119 updated, 3 items"}
+{"timestamp": "2026-01-01T12:23:21.772269+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 44ms"}
+{"timestamp": "2026-01-01T12:23:22.709078+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:23:25.472455+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "3674adb5bd92ddc3"}
+{"timestamp": "2026-01-01T12:23:25.482279+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 8672 committed"}
+{"timestamp": "2026-01-01T12:23:26.207142+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 32ms"}
+{"timestamp": "2026-01-01T12:23:26.463942+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 7677 placed"}
+{"timestamp": "2026-01-01T12:23:26.775678+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 4242 completed checkout flow"}
+{"timestamp": "2026-01-01T12:23:29.548234+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 1472 updated, 3 items"}
+{"timestamp": "2026-01-01T12:23:29.688395+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 9124"}
+{"timestamp": "2026-01-01T12:23:33.209266+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:23:35.600125+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 30ms"}
+{"timestamp": "2026-01-01T12:23:38.020504+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "6b5ec63d0c7ac0a0"}
+{"timestamp": "2026-01-01T12:23:38.677137+00:00", "host": "core-host", "service": "checkout", "severity_text": "INFO", "body": "order 9641 placed"}
+{"timestamp": "2026-01-01T12:23:39.250097+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 6052 committed"}
+{"timestamp": "2026-01-01T12:23:39.469627+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 45ms"}
+{"timestamp": "2026-01-01T12:23:40.740748+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 6225 completed checkout flow"}
+{"timestamp": "2026-01-01T12:23:40.780591+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 7025"}
+{"timestamp": "2026-01-01T12:23:40.840983+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 2697 updated, 3 items"}
+{"timestamp": "2026-01-01T12:23:44.856689+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:23:47.952899+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 25ms"}
+{"timestamp": "2026-01-01T12:23:48.317667+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "2c0e07e376167826"}
+{"timestamp": "2026-01-01T12:23:50.877176+00:00", "host": "backend-host", "service": "kafka", "severity_text": "INFO", "body": "partition orders-0 offset 7333 committed"}
+{"timestamp": "2026-01-01T12:23:52.065029+00:00", "host": "backend-host", "service": "recommendation", "severity_text": "INFO", "body": "returned 5 recommendations for session 4565"}
+{"timestamp": "2026-01-01T12:23:52.333018+00:00", "host": "core-host", "service": "cart", "severity_text": "INFO", "body": "cart 9267 updated, 3 items"}
+{"timestamp": "2026-01-01T12:23:52.446610+00:00", "host": "edge-host", "service": "frontend", "severity_text": "INFO", "body": "GET /api/products 200 in 44ms"}
+{"timestamp": "2026-01-01T12:23:52.545698+00:00", "host": "core-host", "service": "checkout", "severity_text": "WARN", "body": "payment call returned error, order not placed", "trace_id": "49c4745c73601b1a"}
+{"timestamp": "2026-01-01T12:23:52.874189+00:00", "host": "edge-host", "service": "load-generator", "severity_text": "INFO", "body": "user session 8218 completed checkout flow"}
+{"timestamp": "2026-01-01T12:23:55.353915+00:00", "host": "backend-host", "service": "ad", "severity_text": "INFO", "body": "served ad for context 'telescopes'"}
+{"timestamp": "2026-01-01T12:23:58.466904+00:00", "host": "core-host", "service": "product-catalog", "severity_text": "INFO", "body": "served product list in 40ms"}
+{"timestamp": "2026-01-01T12:23:59.571472+00:00", "host": "core-host", "service": "payment", "severity_text": "ERROR", "body": "charge failed: invalid config: currency_conversion_map missing for 'EUR'", "trace_id": "06169f890115d5cd"}
