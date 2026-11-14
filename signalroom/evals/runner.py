@@ -14,6 +14,7 @@ import hashlib
 import json
 import os
 import sys
+import time
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -58,8 +59,12 @@ def make_agents(guardian: str, rca: str, client: ModelClient | None) -> tuple[Gu
 
 
 def run_scenario(scenario: Scenario, guardian: GuardianAgent, rca: RCAAgent,
-                 repeat: int = 0) -> ScenarioScore:
+                 repeat: int = 0, trace: dict | None = None) -> ScenarioScore:
+    """Score one scenario run. If `trace` is given, it is filled with the verdicts, escalation
+    and report so the run can be exported as a replay bundle."""
     telemetry = InMemoryTelemetry.from_jsonl(scenario.fixture_path)
+    trace = trace if trace is not None else {}
+    trace.update(verdicts=[], escalation=None, report=None, rca_latency_s=None)
     score = ScenarioScore(scenario_id=scenario.id, repeat=repeat, split=scenario.split.value,
                           family=scenario.family, difficulty=scenario.difficulty.value)
 
@@ -73,6 +78,7 @@ def run_scenario(scenario: Scenario, guardian: GuardianAgent, rca: RCAAgent,
                                 coverage=Coverage(hosts_expected=len(scenario.hosts), hosts_reporting=0),
                                 reason=f"guardian unavailable: {type(e).__name__}")
         verdicts.append((window, v))
+    trace["verdicts"] = [v for _, v in verdicts]
 
     score.windows, score.incident_detected, score.detection_latency_s = score_windows(scenario, verdicts)
 
@@ -83,12 +89,17 @@ def run_scenario(scenario: Scenario, guardian: GuardianAgent, rca: RCAAgent,
     refs = [EvidenceRef(window=first.window, service=s) for s in first.services] or \
         [EvidenceRef(window=first.window)]
     escalation = Escalation(verdict=first, evidence_refs=refs)
+    trace["escalation"] = escalation
+    t0 = time.monotonic()
     try:
         report = rca.analyze(escalation, telemetry)
+        trace["report"] = report
     except (ModelUnavailable, InvalidModelOutput) as e:
         score.schema_failures += isinstance(e, InvalidModelOutput)
         score.no_rca_reason = type(e).__name__
         return score
+    finally:
+        trace["rca_latency_s"] = time.monotonic() - t0
 
     score.secret_leaks = count_secret_leaks(report.model_dump_json(), scenario.ground_truth)
     if scenario.has_fault:
