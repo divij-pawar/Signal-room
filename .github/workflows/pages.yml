@@ -30,6 +30,8 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: ui/package-lock.json
+      # The lockfile is written by npm 11; npm 10 (bundled with Node 22) rejects it in `npm ci`.
+      - run: npm install -g npm@11
       - run: npm ci
       - run: npm run build
         env:
